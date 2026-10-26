@@ -1,14 +1,16 @@
-VITTORIA BALDONI — PORTFOLIO OFFLINE
-Apri index.html con il browser. Non occorrono installazioni o connessione.
-Mantieni insieme index.html, progetto.html, style.css e assets/.
+PORTFOLIO VITTORIA BALDONI — VERSIONE CON PROGETTI
+Apri index.html. Il sito funziona offline senza installazioni.
+Mantieni tutti i file HTML, style.css e assets nella stessa cartella.
 
 CONTENUTI
-Testi, date, email e LinkedIn sono ricavati dal CV allegato.
-Il PDF PORTFOLIO LAVORI_2026(2).pdf non era accessibile: nessun progetto è stato inventato. La sezione lavori segnala il dato mancante.
-progetto.html è il modello di dettaglio, non collegato nella navigazione pubblica. Dopo aver ricevuto il portfolio, duplicarlo per ciascun lavoro e sostituire i campi con informazioni verificate. Inserire immagini in assets/, usando width:100%;height:auto e alt descrittivi. Collegare l’ultimo blocco al progetto seguente.
-Non sono stati ricavati nomi di software dalle icone del CV. Il PDF CV scaricabile è la copia integrale originale e contiene anche le informazioni personali presenti nell’allegato.
+Profilo ed esperienze: CV fornito. Progetti: PORTFOLIO LAVORI_2026(4).pdf, 54 pagine.
+Selezione: Mindspace (15–19), Nextoyou (21–24 e 26), Teti (11–13), Lullaby (7–9), Homeservice (29–32), Syrio (42–43), Giardino Botanico dei Larici (45–47), Catalogo (49–50).
+Le immagini sono esportazioni delle tavole originali: non sono state ricreate o deformate. Le copertine di alcuni lavori ritagliano soltanto la colonna di testo; le tavole complete sono nelle gallerie.
+Non vengono dichiarati risultati misurati o attribuzioni esclusive non documentate. Per alcuni lavori il brief e il ruolo personale dettagliato non sono disponibili: indicati nelle schede.
+La dicitura Mindspace segue i titoli del PDF; nel testo originale compare anche MindfulSpace.
+Il CV scaricabile è la copia integrale originale con i dati personali contenuti nell’allegato.
 
 MODIFICHE
-Testi: index.html. Colori: variabili all’inizio di style.css.
-Font locali: Nimbus Sans e P052 (URW Base35), in formato OpenType. Licenza AGPL con eccezione font; vedere FONT-LICENSE.txt.
-Non sono presenti CDN, richieste di rete automatiche, moduli, tracciamento o dipendenze JavaScript. Email e LinkedIn richiedono app o connessione.
+Testi direttamente nei file HTML, colori nelle variabili iniziali di style.css. Immagini in assets/ (WebP). Per aggiungere un lavoro duplica una scheda e aggiorna i collegamenti nella home e al progetto successivo.
+Font OpenType locali Nimbus Sans e P052: vedere FONT-LICENSE.txt.
+Nessuna richiesta di rete automatica, CDN, dipendenza JavaScript o tracciamento. Email e LinkedIn richiedono app o connessione.
