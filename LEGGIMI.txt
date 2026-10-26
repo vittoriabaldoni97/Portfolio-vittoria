@@ -1,0 +1,14 @@
+VITTORIA BALDONI — PORTFOLIO OFFLINE
+Apri index.html con il browser. Non occorrono installazioni o connessione.
+Mantieni insieme index.html, progetto.html, style.css e assets/.
+
+CONTENUTI
+Testi, date, email e LinkedIn sono ricavati dal CV allegato.
+Il PDF PORTFOLIO LAVORI_2026(2).pdf non era accessibile: nessun progetto è stato inventato. La sezione lavori segnala il dato mancante.
+progetto.html è il modello di dettaglio, non collegato nella navigazione pubblica. Dopo aver ricevuto il portfolio, duplicarlo per ciascun lavoro e sostituire i campi con informazioni verificate. Inserire immagini in assets/, usando width:100%;height:auto e alt descrittivi. Collegare l’ultimo blocco al progetto seguente.
+Non sono stati ricavati nomi di software dalle icone del CV. Il PDF CV scaricabile è la copia integrale originale e contiene anche le informazioni personali presenti nell’allegato.
+
+MODIFICHE
+Testi: index.html. Colori: variabili all’inizio di style.css.
+Font locali: Nimbus Sans e P052 (URW Base35), in formato OpenType. Licenza AGPL con eccezione font; vedere FONT-LICENSE.txt.
+Non sono presenti CDN, richieste di rete automatiche, moduli, tracciamento o dipendenze JavaScript. Email e LinkedIn richiedono app o connessione.
